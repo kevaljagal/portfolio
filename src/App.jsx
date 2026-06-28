@@ -1,5 +1,5 @@
 import './App.css';
-import aboutImg from './assets/image.png';
+import aboutImg from './assets/WhatsApp Image 2026-06-24 at 9.31.48 PM.jpeg';
 import resumePdf from './assets/Keval_Jagal_Resume Accounting farm.pdf';
 
 function App() {
